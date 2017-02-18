@@ -1,0 +1,26 @@
+{
+  "name": "cgtools",
+  "version": "1.0.0",
+  "description": "A set of extension collected from variety computer graphics apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corpglory/cgtools.git"
+  },
+  "keywords": [
+    "algorithms",
+    "computer",
+    "graphics",
+    "crazy",
+    "things"
+  ],
+  "author": "Alexey Velikiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corpglory/cgtools/issues"
+  },
+  "homepage": "https://github.com/corpglory/cgtools#readme"
+}
