@@ -1,1 +1,1 @@
-require('lib/array');
+require('./lib/array');
