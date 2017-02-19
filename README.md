@@ -2,6 +2,7 @@
 
 A small set of extensions for common structures.
 `prototype` is used here and it might not work with other libs
+It is a lib for us :)
 
 # Installation
 
